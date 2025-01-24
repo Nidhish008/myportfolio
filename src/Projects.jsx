@@ -2,9 +2,9 @@ import React from "react";
 
 function Projects() {
   return (
-    <div className="projects">
-      <p>Here are some of the projects I have worked on:</p>
+    <div className="container projects">
       <h1>My Projects</h1>
+      <p>Here are some of the projects I have worked on:</p>
       <ul>
         <li>
           <strong>Project 1:</strong> Portfolio Website - A responsive portfolio using ReactJS.
