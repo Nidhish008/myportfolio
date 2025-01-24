@@ -1,0 +1,36 @@
+.projects {
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.projects h1 {
+  color: #2f3640;
+}
+
+.projects ul {
+  padding: 0;
+}
+
+.projects li {
+  margin: 15px 0;
+  padding: 15px;
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  transition: background-color 0.3s;
+}
+
+.projects li:hover {
+  background-color: #f0f0f0;
+}
+
+.projects a {
+  color: #3498db;
+  text-decoration: none;
+}
+
+.projects a:hover {
+  text-decoration: underline;
+}
